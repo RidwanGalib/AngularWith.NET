@@ -1,0 +1,73 @@
+
+
+.NET
+- Whats New 
+	- https://stackoverflow.com/questions/247621/
+	- in C# Versions 8/9/10/11/12 (learn seperately)
+	- Whats New in .NET Core Versions 5.1-7/8 (learn seperately)
+- JWT Token
+- Entity Framework 6+ 
+	- CodeFirst & DB-First both
+	- EF Advance Queries (All types of join, LINQ, LambdaExpression)
+	- EF Ienumberble vs IQueryable (with practical example)
+- Dapper
+- ADO.NET
+- Middlewares in .NET Core
+- .NET Core Reqest Lifetime (Singleton, Scoped, Transient etc.) + Differences/Comparison
+- OOP (all subtopics/pillars like Abstractions, Encapsulation, Inheritance, Polymorphism)
+- OOP co-relations (ex. Abstraction vs Encapsulation, Inheritance vs Polymorphism)
+- Benefits of OOP
+- Functional programming vs OOP
+- UnitTesting (optional)
+
+
+
+.NET Advanced 
+- Caching (Radis)
+- Microservice Based Architecture
+	- CQRS (Command Query Responsibility Segregation)
+	- RabbitMQ (Optional: Kafka)
+	- Even Driven Communication / Architecture
+	- Design Microservice based Architecture (using Libaries like MassTransit, Ocelot API Gateway + Others)
+- Design Pattern (with examples)
+	- Clean Architecture
+	- SOLID Principles (all subtopics with real-life examples of each)
+	- Repository Pattern
+	- N-Tier/Layered Architecture
+	- Dependency Injections (DI)
+	- DDD (Domain-Driven Design)
+	- And Others (you are familiar with the concept)
+	
+	
+
+Angular + Surroundings
+- Typescript
+- Learn Angular 2/+ (upto 17/Lastest with Latest different technogies like Server Side Rendering SSR, Signals, )
+- NGX-Boostrap
+- PrimeNG
+- Material UI
+- Other frameworks like React, Vew etc.
+
+
+Database
+- Performance Tuning RDBMS (+Database Configuration)
+- MSSQL (Basic to Advanced)
+	- Function, StoredProcedure, View, Trigger, DDL/DML/DCL, CTE, SubQuery, Cursor, Indexing, Performance Optimization Techniques, Concurrency Handling Mechanisms, ACID Properties, Transactions, Pivot & Lot More you can search internet.
+- NoSQL DB Like (MongoDB, DynamoDB of AWS)
+
+
+
+
+---------Later----------
+Cloud
+- AWS (100+ different services ex. EC2, S3, DynamoDB)
+- Azure (100+ different services ex. Lambda Function, Service Bus, )
+
+DevOps (Mostly used in microservices)
+- Docker, DockerHub
+- Jenkins
+- Kubernetis
+- Distributed Systems
+- Load Balancing Diffferent Techniques (Round Robin / Others)
+
+
