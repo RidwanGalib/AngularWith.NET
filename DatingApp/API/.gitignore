@@ -6,9 +6,9 @@
 # dotenv files
 .env
 
-*/bin/
-*/.vs/
-*/obj/
+bin/
+.vs/
+obj/
 
 # User-specific files
 *.rsuser
